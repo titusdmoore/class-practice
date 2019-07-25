@@ -8,7 +8,7 @@ namespace ClassPracticeProject {
             Console.WriteLine($"My one and only friend is {alex.firstName} {alex.lastName} and he is {alex.age} years old\");
         }
     }
-    class Friend {
+    class Friend { 
         public int age { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
